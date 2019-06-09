@@ -3,8 +3,8 @@ This repository cotains the following files:
 
     run_analysis.R
     codebook.md
-    newData.csv
-    xMatrixReduced.csv
+    tidy_data.txt
+   
 
 The "run_analysis.R" file contains the R code that can be used to achieve the following:
 
