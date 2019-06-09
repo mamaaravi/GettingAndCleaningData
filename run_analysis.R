@@ -36,7 +36,7 @@ features <- read.table("./data/UCI HAR Dataset/features.txt", header = FALSE, se
 ext_features <- grep("mean|std", features)
 activity_labels <- read.table("./data/UCI HAR Dataset/activity_labels.txt", header = FALSE, sep = "")[,2]
 
-##Read "test" data files
+##Read "test" data files 
 
 x_test <- read.table("./data/UCI HAR Dataset/test/X_test.txt", header = FALSE, sep = "")
 y_test <- read.table("./data/UCI HAR Dataset/test/y_test.txt", header = FALSE, sep = "")
