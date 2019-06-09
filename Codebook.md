@@ -60,4 +60,4 @@ The final variable set is exported as "tidy_dat.txt" with the following variable
     WALKING_DOWNSTAIRS
     WALKING_UPSTAIRS
 
-These means are in the units specified above under "Code Book Variable Specifics"
+These means are in the units specified above under "Code Book Variable Specifics" 
