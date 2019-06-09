@@ -2,7 +2,7 @@
 This repository cotains the following files:
 
     run_analysis.R
-    codebook.md
+    Codebook.md
     tidy_data.txt
    
 
